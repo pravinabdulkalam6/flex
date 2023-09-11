@@ -1,0 +1,41 @@
+.container {
+        display: flex;
+        column-gap: 10px;
+
+
+}
+body {
+    background-color: blue;
+}
+.box {
+    background-color: yellowgreen;
+    height: 100px;
+    width: 100px;
+}
+.jc-center {
+    justify-content: center;
+}
+.jc-spacearound {
+    justify-content: space-around;
+}
+.jc-spacebetween {
+    justify-content: space-between;
+}
+.jc-flexstart {
+    justify-content: flex-start;
+}
+.jc-flexend {
+    justify-content: flex-end;
+}
+.main {
+    padding: 20px;
+    background-color: aqua;
+    height: 200px;
+    margin: 50px 100px;
+}
+.main h1{
+    text-align: center;
+}
+.ai-center {
+    
+}
